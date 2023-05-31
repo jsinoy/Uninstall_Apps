@@ -1,6 +1,4 @@
 @Echo Off
-CLS
-TITLE Find and Uninstall Bad SoftWare
 setlocal ENABLEDELAYEDEXPANSION
 setlocal ENABLEEXTENSIONS
 :Part1
