@@ -1,7 +1,6 @@
-﻿<#
+<#
 # NAME: SilentUninstall.ps1
 # SYNOPSIS: Uninstall one or more programs given a search query
-# COPYRIGHT: Dave Baker, Maybank Systems, (c) 2014
 #
 #
 # SYNTAX
